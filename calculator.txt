@@ -25,6 +25,7 @@ cout<<"Addition function";
     // Function to subtract two numbers
     double subtract() {
         return num1 - num2;
+        cout<<"substraction";
     }
 
     };
