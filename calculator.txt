@@ -19,7 +19,7 @@ public:
     // Function to add two numbers
     double add() {
         return num1 + num2;
-cout<<"this is addition function";
+cout<<"Addition function";
     }
 
     // Function to subtract two numbers
